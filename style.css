@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: beige;
+
+}
+
+#bordas {
+    border: 3px solid #030303;
+    width: 400px;
+    height: 600px;
+}
+
+.padrao-msg {
+    margin-left: 8px;
+    background-color: #ffd622;
+    font-size: 14px;
+    text-align: right;
+    
+}
+
+.padrao-msg-fim {
+    width: auto;
+    padding: 8px;
+}
+
+.mensagem {
+    margin: 45px 8px 30px;
+    background-color: #ffd622;
+    padding: 40px 60px;
+    text-align: center;
+}
+
+.div-topo{
+    background-color: #ffd622;
+    display: inline-block;
+    padding: 5px;
+    font-size: 8px;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.margin-final{
+    margin-top: 30px;
+}
+
+#botao{
+    width:auto;
+    height: auto;
+    float: right;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+
+    border: 1px solid gray;
+    background-color: #ffd622;
+    padding: 5px 5px;
+    border-radius: 3px;
+    font-weight: 700;
+    margin: 50px;
+    color: blank;
+}
+a:hover{
+    cursor: pointer;
+    color: #2c00ee;
+}
